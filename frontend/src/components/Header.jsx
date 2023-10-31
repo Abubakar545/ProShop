@@ -11,7 +11,7 @@ const Header = () => {
            <Container>
             <LinkContainer to='/'>
               <Navbar.Brand>
-                <img src={logo} alt="Image logo"/>
+                <img src={logo} alt="logo"/>
                 ProShop
                 </Navbar.Brand>
             </LinkContainer>
